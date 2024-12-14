@@ -17,3 +17,6 @@ To install the debian package:
 
 
 Please let me know if you want me to package any more software that you think it's missing or any other versions of nano
+
+
+agregamos un cambio tiquito.
